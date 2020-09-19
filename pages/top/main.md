@@ -1,8 +1,8 @@
 ---
 Keywords: bashcms 2, bash
-Copyright: (C) 2017 Ryuichi Ueda
+Copyright: (c)2017 Ryuichi Ueda
 ---
 
-# bashcms 2
+# bashcms2
 
-絶賛 作成 中。
+絶賛作成中。
