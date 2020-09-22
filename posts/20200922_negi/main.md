@@ -1,5 +1,5 @@
 ---
-Keywords:　作業日誌
+Keywords: Facebook, 作業日誌
 Copyright: (C) 20200922 16:34 Yuzo Nakajima
 ---
 
